@@ -11,7 +11,6 @@ Java 12.0.1
 IDE Used:
 IntelliJ IDEA 2019.2.2 (Ultimate Edition)
 Build #IU-192.6603.28, built on September 6, 2019
-Licensed to Xochitl Menjivar
 Runtime version: 11.0.3+12-b304.56 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 Windows 10 10.0
